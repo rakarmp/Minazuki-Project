@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+moddir="/data/adb/modules/MP"
+
+# Start menu
+sh "$moddir/system/bin/menu"
